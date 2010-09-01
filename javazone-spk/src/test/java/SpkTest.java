@@ -11,12 +11,12 @@ public class SpkTest {
 	public void skalVaereUnderAldersGrenseHvisYngreEnn67VedPensjoneringstidspunk() throws Exception {
 		Calendar foedt = Calendar.getInstance();
 		foedt.set(Calendar.YEAR, 1943);
-		foedt.set(Calendar.MONTH, Calendar.AUGUST);
+		foedt.set(Calendar.MONTH, Calendar.DECEMBER);
 		foedt.set(Calendar.DAY_OF_MONTH, 26);
 		
 		
 		Calendar vilGaaAv = Calendar.getInstance();
-		vilGaaAv.set(Calendar.YEAR, 1943);
+		vilGaaAv.set(Calendar.YEAR, 2010);
 		vilGaaAv.set(Calendar.MONTH, Calendar.NOVEMBER);
 		vilGaaAv.set(Calendar.DAY_OF_MONTH, 1);
 		
@@ -32,7 +32,7 @@ public class SpkTest {
 		foedt.set(Calendar.DAY_OF_MONTH, 26);
 		
 		Calendar vilGaaAv = Calendar.getInstance();
-		vilGaaAv.set(Calendar.YEAR, 1943);
+		vilGaaAv.set(Calendar.YEAR, 2010);
 		vilGaaAv.set(Calendar.MONTH, Calendar.NOVEMBER);
 		vilGaaAv.set(Calendar.DAY_OF_MONTH, 1);
 		
