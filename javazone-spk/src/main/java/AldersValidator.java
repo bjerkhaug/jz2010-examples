@@ -7,7 +7,6 @@ public class AldersValidator {
 			Calendar vilGaaAv) {
 		long alderIms = Calendar.getInstance().getTimeInMillis()-foedt.getTimeInMillis();
 		
-		
 		return alderIms / 1000L / 60L / 60L / 24L / 365L >= 67L;
 	}
 

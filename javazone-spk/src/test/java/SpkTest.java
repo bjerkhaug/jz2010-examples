@@ -8,7 +8,7 @@ import org.junit.Test;
 public class SpkTest {
 	
 	@Test
-	public void skalVaereUnderAldersGrenseHvisYngreEnn67VedPensjoneringstidspunk() throws Exception {
+	public void skalVaereUnderAldersGrenseHvisYngreEnn67VedPensjoneringstidspunkt() throws Exception {
 		Calendar foedt = Calendar.getInstance();
 		foedt.set(Calendar.YEAR, 1943);
 		foedt.set(Calendar.MONTH, Calendar.DECEMBER);
