@@ -25,7 +25,7 @@ public class SpkTest {
 	}
 
 	@Test
-	public void skalVaereOverAldersGrenseHvisEldreEnn67VedPensjoneringstidspunk() throws Exception {
+	public void skalVaereOverAldersGrenseHvisEldreEnn67VedPensjoneringstidspunkt() throws Exception {
 		Calendar foedt = Calendar.getInstance();
 		foedt.set(Calendar.YEAR, 1943);
 		foedt.set(Calendar.MONTH, Calendar.OCTOBER);
