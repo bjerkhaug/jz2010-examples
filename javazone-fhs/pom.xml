@@ -3,10 +3,10 @@
 	
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>no.steria.fhs</groupId>
-	<artifactId>javazone-fhs</artifactId>
+	<artifactId>javazone-feilhaandtering</artifactId>
 	<packaging>jar</packaging>
 	<version>1.0-SNAPSHOT</version>
-	<name>javazone-fhs</name>
+	<name>javazone-feilhaandtering</name>
 	
 	<dependencies>
 		<dependency>
