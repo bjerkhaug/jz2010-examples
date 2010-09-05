@@ -1,6 +1,9 @@
+package no.steria.spk;
 import static org.junit.Assert.*;
 
 import java.util.Calendar;
+
+import no.steria.spk.AldersValidator;
 
 import org.junit.Test;
 
