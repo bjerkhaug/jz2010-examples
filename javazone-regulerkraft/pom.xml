@@ -3,10 +3,10 @@
 	
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>no.steria.kraft</groupId>
-	<artifactId>javazone-reservekraft</artifactId>
+	<artifactId>javazone-regulerkraft</artifactId>
 	<packaging>jar</packaging>
 	<version>1.0-SNAPSHOT</version>
-	<name>javazone-reservekraft</name>
+	<name>javazone-regulerkraft</name>
 	
 	<dependencies>
 		<dependency>
